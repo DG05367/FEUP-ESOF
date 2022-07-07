@@ -30,7 +30,7 @@ Please contact us!
 
 Thank you! <br>
 <3 <br>
-This Project's Team:
+This Project's Team:<br>
 [André Ávila](https://github.com/AvilaAndre), <br>
 [Bruno Leal](https://github.com/up202008047), <br>
 [Diogo Gomes](https://github.com/DG05367), <br>
