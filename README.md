@@ -29,8 +29,8 @@ So far, contributions are exclusively made by the initial team, but we hope to o
 Please contact us!
 
 Thank you! <br>
-<3
-This Projects Team:
+<3 <br>
+This Project's Team:
 * [André Ávila](https://github.com/AvilaAndre), 
 * [Bruno Leal](https://github.com/up202008047), 
 * [Diogo Gomes](https://github.com/DG05367), 
