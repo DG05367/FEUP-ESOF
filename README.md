@@ -31,8 +31,8 @@ Please contact us!
 Thank you! <br>
 <3 <br>
 This Project's Team:
-* [André Ávila](https://github.com/AvilaAndre), 
-* [Bruno Leal](https://github.com/up202008047), 
-* [Diogo Gomes](https://github.com/DG05367), 
-* [Maria Sofia Gonçalves](https://github.com/MSofiaGoncalves), 
-* [Miguel Teixeira](https://github.com/teixemigue)
+[André Ávila](https://github.com/AvilaAndre), <br>
+[Bruno Leal](https://github.com/up202008047), <br>
+[Diogo Gomes](https://github.com/DG05367), <br>
+[Maria Sofia Gonçalves](https://github.com/MSofiaGoncalves), <br>
+[Miguel Teixeira](https://github.com/teixemigue) <br>
